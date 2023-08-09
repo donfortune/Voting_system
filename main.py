@@ -25,4 +25,3 @@ while True:
 
 for candidate, votes in results.items():
     print(f'{candidate}: {votes} votes')
-#print(results)
